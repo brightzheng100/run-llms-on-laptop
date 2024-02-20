@@ -7,7 +7,7 @@ Here are my experiments, trying to answer below key questions that I also had be
 
 By given my current laptop, say MacBook Pro:
 - Can I run the LLM models on top of it?
-- If yes, what are the potential approaches run the LLM models locally?
+- If yes, what are the potential approaches to run the LLM models locally?
 
 My laptop specs: MacBook Pro, with M1 Max chip, 10 CPU cores, 32G RAM, and 1T SSD disk.
 
@@ -30,10 +30,10 @@ chmod +x "Miniconda3-latest-MacOSX-`uname -m`.sh"
 ```
 
 Just follow the guide to finish the installation, with some recommendations when being prompted:
-- Do you wish to update your shell profile to automatically initialize conda? **Yes**, which will update the init file for us.
+- Do you wish to update your shell profile to automatically initialize conda? **Yes**, which will init `conda` for us.
 
 Make sure to source the init before using the `conda`.
-In my case, as I'm with zsh, do this: `source ~/.zshrc`.
+In my case, as I'm with `zsh`, do this: `source ~/.zshrc`.
 
 And I personally prefer to disable the auto base activation, so run this:
 ```sh
@@ -45,7 +45,7 @@ Now, we're all set.
 ## Approachs
 
 There might be more and more approaches that can be discovered and below are what I've tried.
-
+So check out the experiment link for details.
    
 | SN | Approach | Briefing    | Experiment Link |
 |----|----------|-------------|-----------------|
