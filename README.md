@@ -51,3 +51,6 @@ So check out the experiment link for details.
 |----|----------|-------------|-----------------|
 | 1  | [localGPT](https://github.com/PromtEngineer/localGPT) | Run LLM models with locally ingested documents  | [README-LOCALGPT.md](README-LOCALGPT.md) |
 | 2  | [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | A popular web UI for running Large Language Models | [README-TEXTGEN-WEBUI.md](README-TEXTGEN-WEBUI.md) |
+| 3  | [`ollama` CLI](https://ollama.com/) | A CLI to run Llama 2 and other LLMs locally | [README-OLLAMA.md](README-OLLAMA.md) |
+
+> Disclaimers: the sequence ("SN") here is just the sequence that I tried these approaches, which has no indication of anything about ranking or preference.
