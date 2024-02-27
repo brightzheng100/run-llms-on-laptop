@@ -136,4 +136,7 @@ We know that Amy is 5 years younger than Michael, so she is 5 - 10 = 5 years old
 Then I tried back the `TheBloke/Llama-2-7b-Chat-GGUF` on [README-TEXTGEN-WEBUI.md](README-TEXTGEN-WEBUI.md). Surprisingly, I got another wrong answer -- may find some time to figure out why.
 ![age question in textgen](./screenshots/age-question-in-textgen.png)
 
+Luckily, ChatGPT doesn't surprise me:
+![age question in chatgpt](./screenshots/age-question-in-chatgpt.png)
+
 PS: similarly, I didn't see much performance impact to my MacBook Pro laptop.
