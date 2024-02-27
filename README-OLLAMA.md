@@ -14,7 +14,7 @@ First things first, download the installer for your laptop.
 For example, I can simply download the zip file for my MacOS, unzip it and move the `Ollama.app` file into "Applications" folder.
 That's it.
 
-The commands are powered by `cobra` so you may be very familar with the command layout:
+The commands are powered by `cobra` so you may be very familiar with the command layout:
 
 ```sh
 $ ollama -h
@@ -116,8 +116,8 @@ What we need to do is to type and interact with the model directly with prompts.
 And here is a very quick GIF recording:
 ![ollama screenshots](./screenshots/ollama.gif)
 
-Not sure why but the `gemma` model running in `ollama` performs that bad.
-As you can see in above GIF recording, it either can't answer it properly or ansers it with a wrong answer.
+Not sure why the `gemma` model running in `ollama` performs that bad.
+As you can see in above GIF recording, it either couldn't answer it properly or gave me a wrong answer.
 
 For example - this should be a common sense question:
 ```
